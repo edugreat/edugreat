@@ -23,7 +23,7 @@
 
 ### :man_technologist: I am a learner and fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
   
-- 👀 I love practicing programming and solve problems
+- 👀 I love practicing programming and solving problems
 - 🧑‍🎓 I love science and Mathematics
 - 🌱 I learn by practicing and currently working on a [project](https://github.com/edugreat/ekademiks) for academic use
 - 💞️ I'll appreciate your collaboration on my project
