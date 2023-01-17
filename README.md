@@ -3,7 +3,7 @@
                           <img src ="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" width="100"/>
                           </div>
                           <div id ="badges">
-  <a href="https/twitter.com/Chinedu53931947">
+  <a href="https/twitter.com/_edugreat">
   <img src = "https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FTwitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/chinedu-anyanwu-313003236">
