@@ -21,7 +21,7 @@
 </div>
 
 
-### :man_technologist: I am a learner and fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### :man_technologist: Software developer | Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
   
 - 👀 I love practicing programming and solving problems
 - 🧑‍🎓 I love science and Mathematics
