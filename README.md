@@ -6,7 +6,7 @@
   <a href="https://twitter.com/_edugreat">
   <img src = "https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FTwitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.linkedin.com/chinedu-anyanwu-313003236">
+  <a href="linkedin.com/in/chinedu-anyanwu-313003236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
