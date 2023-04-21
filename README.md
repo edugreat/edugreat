@@ -1,6 +1,6 @@
-
+<h1>
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <span>I'm <em>Anyanwu Chinedu,</em></span>
 </h1>
 
 <div align="center">
@@ -8,13 +8,13 @@
 </div>
 
 
-### :man_technologist: Software developer | Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### :man_technologist: A Software developer | Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
   
 - 👀 I love practicing programming and solving problems
 - 🧑‍🎓 I love science and Mathematics
 - 🌱 I learn by practicing and currently working on a [project](https://github.com/edugreat/ekademiks) for academic use
 - 💞️ I'll appreciate your collaboration on my project
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/chinedu-anyanwu-313003236)  [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FTwitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite)](https/twitter.com/Chinedu53931947)  [![Email Badge](https://badgen.net/badge/email/me/green?icon=https://www.bing.com/ck/a?!&&p=74fcfef780daeda1JmltdHM9MTY3MDYzMDQwMCZpZ3VpZD0yOTEyODczMy0xODIxLTY2ZTctMmFjNC05NTU4MTkzYzY3MTcmaW5zaWQ9NTQ1OA&ptn=3&hsh=3&fclid=29128733-1821-66e7-2ac4-9558193c6717&u=a1L2ltYWdlcy9zZWFyY2g_cT1FbWFpbCUyMEljb24mRk9STT1JUUZSQkEmaWQ9RjRCNzIyQzFEMzk5NDc5M0M0QTkzQkU1QzAxQ0M2NkYxRDQ3QjA0RA&ntb=1)](anyanwuchinedu687@yahoo.com)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-anyanwu-313003236/)  [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FTwitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite)](https/twitter.com/_edugreat)  [![Email Badge](https://badgen.net/badge/email/me/green?icon=https://www.bing.com/ck/a?!&&p=74fcfef780daeda1JmltdHM9MTY3MDYzMDQwMCZpZ3VpZD0yOTEyODczMy0xODIxLTY2ZTctMmFjNC05NTU4MTkzYzY3MTcmaW5zaWQ9NTQ1OA&ptn=3&hsh=3&fclid=29128733-1821-66e7-2ac4-9558193c6717&u=a1L2ltYWdlcy9zZWFyY2g_cT1FbWFpbCUyMEljb24mRk9STT1JUUZSQkEmaWQ9RjRCNzIyQzFEMzk5NDc5M0M0QTkzQkU1QzAxQ0M2NkYxRDQ3QjA0RA&ntb=1)](anyanwuchinedu687@yahoo.com)
 
 ---
 
