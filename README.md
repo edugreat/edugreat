@@ -42,6 +42,22 @@
  <div>
   <img src="https://komarev.com/ghpvc/?username=edugreat&style=flat-square&color=blue" alt=""/>
   </div>
+  
+  ### 📘 My Road Map to the amazing world of <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  
+  ---
+  After my data analytic training by Google, I decided to learn more about ```R``` programming language.
+  Some of the interesting things about ```R``` that spurred by interest includes its:
+  * Computational powers
+  * Data cleaning powers
+  * Visualization powers
+  * Great nathematical tools and library
+ 
+ In my journey to learning more about ```R``` I decided to use this interesting book [**R for Data Science by Hadley Wickham & Garret Grolemund**](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399)
+ 
+ **Note:** The responses to the exercises on this book were not provided by the author, but the reader, Me ### 😆
+ 
+ ![alt text](https://drive.google.com/file/d/1SO3j2AgKBIc4OI6GNMmmjCM1GcJ8aRQs/view?usp=sharing)
 <!---
 edugreat/edugreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
