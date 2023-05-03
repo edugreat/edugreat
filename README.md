@@ -55,7 +55,7 @@
  
  In my journey to learning more about ```R``` I decided to use this interesting book [**R for Data Science by Hadley Wickham & Garret Grolemund**](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399)
  
- **Note:** The responses to the exercises on this book were not provided by the author, but the reader, Me ### 😆
+ **Note:** The responses to the exercises on this book were not provided by the author, but the reader, Me😆
  
  ![alt text](https://drive.google.com/file/d/1SO3j2AgKBIc4OI6GNMmmjCM1GcJ8aRQs/view?usp=sharing)
 <!---
