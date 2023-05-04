@@ -59,7 +59,7 @@
  
  ![alt text](https://github.com/edugreat/r-road-map/blob/main/roadmap.png)
  ---
- ### 👌 Chapter 1 - Data Visualization with ggplot2 (coming soon...)
+ ### 👌 [Chapter 1 - Data Visualization with ggplot2 ](https://github.com/edugreat/r-road-map/blob/main/chapter-one/exercise.pdf)
 <!---
 edugreat/edugreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
