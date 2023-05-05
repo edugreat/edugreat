@@ -65,7 +65,29 @@
  
  ![alt text](https://github.com/edugreat/r-road-map/blob/main/roadmap.png)
  ---
- ### 👌 [Chapter 1 - Data Visualization with ggplot2 ](https://github.com/edugreat/r-road-map/blob/main/chapter-one/exercise.pdf)
+ - [x] 👌 [Chapter 1 - Data Visualization with ggplot2 ](https://github.com/edugreat/r-road-map/blob/main/chapter-one/exercise.pdf)
+ - [ ] 👜 Data Transformation with with ``dplyr``
+ - [ ] 🌞 Workflow: Script
+ - [ ] 🌝Exploratory Data Analysis
+ - [ ] ✴️Workflow: Projects
+ - [ ] 🪐Tibbles with ``tibble``
+ - [ ] 🌧️Data Import with ``readr``
+ - [ ] 🐧Tidy Data with tidyr
+ - [ ] ♦️Relational Data with ``dplyr``
+ - [ ] 🌳Strings with ``stringr``
+ - [ ] 🌩️Factors with ``forcats``
+ - [ ] 🗓️Dates and Times with ``lubridate``
+ - [ ] ⛓️Pipes with ``magrittr``
+ - [ ] 👨‍🏫Functions
+ - [ ] 🚡Vectors
+ - [ ] ➿Iteration with ``purrr``
+ - [ ] 🖼️Model Basics with ``modelr``
+ - [ ] 🏗️Model Building
+ - [ ] 🧹Many Models with ``purrr`` and ``broom``
+ - [ ] 🎧R Markdown
+ - [ ] ☎️Graphs for Communication with ``ggplot2``
+ - [ ] 🎤R Markdown Formats
+ - [ ] 📞R Markdown Workflow
 <!---
 edugreat/edugreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
