@@ -56,7 +56,7 @@
   * Computational powers
   * Data cleaning powers
   * Visualization powers
-  * Great mathematical tools and library
+  * Great mathematical tools and libraries
   
  
  In my journey to learning more about ```R``` I decided to use this interesting book [**R for Data Science by Hadley Wickham & Garret Grolemund**](https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399)
