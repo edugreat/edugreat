@@ -65,8 +65,8 @@
  
  ![alt text](https://github.com/edugreat/r-road-map/blob/main/roadmap.png)
  ---
- - [x] 👌 [Chapter 1 - Data Visualization with ggplot2 ](https://github.com/edugreat/r-road-map/blob/main/chapter-one/exercise.pdf)
- - [ ] 👜 Data Transformation with with ``dplyr``
+ - [X] 👌 [Chapter 1 - Data Visualization with ggplot2 ](https://github.com/edugreat/r-road-map/blob/main/chapter-one/exercise.pdf)
+ - [X] 👜 [Data Transformation with with ``dplyr``](https://github.com/edugreat/r-road-map/blob/main/chapter-three/exercise.html)
  - [ ] 🌞 Workflow: Script
  - [ ] 🌝Exploratory Data Analysis
  - [ ] ✴️Workflow: Projects
