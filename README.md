@@ -96,4 +96,4 @@ You can click the Preview link to take a look at your changes.
 ### 🧮 Exercises & project on Data Structure and Algorithm with the nicely resource [**Algorithms, FOURTH EDITION**](https://algs4.cs.princeton.edu/home/)
  **Note:** The responses to the exercises on this book were not the authors', but the reader's, Me😆
  ---
- -[ ]🧭 [section 1.1: basic programming model]
+ - [X] 🧭 [section 1.1: basic programming model](https://github.com/edugreat/dsa/blob/master/learning/src/section11/Exercise.java)
