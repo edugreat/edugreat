@@ -97,4 +97,5 @@ You can click the Preview link to take a look at your changes.
  **Note:** The responses to the exercises on this book were not the authors', but the reader's, Me😆; hence, might not have been the best approach for implementations.
  ---
  - [X] 🧭 [section 1.1: basic programming model](https://github.com/edugreat/dsa/blob/master/learning/src/section11/Exercise.java)
- - [ ] 👜 [section 1.3: Bags,Queues and Stacks](https://github.com/edugreat/dsa/blob/master/learning/src/section13/Exercise.java)
+ - [X] 👜 [section 1.3: Bags,Queues and Stacks](https://github.com/edugreat/dsa/blob/master/learning/src/section13/Exercise.java)
+ - [ ] [1.4 Analysis of Algorithms](https://github.com/edugreat/dsa/blob/master/learning/src/analysis_of_algorithm/Exercise.java)
