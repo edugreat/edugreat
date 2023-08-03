@@ -96,6 +96,17 @@ You can click the Preview link to take a look at your changes.
 ### 🧮 Exercises & project on Data Structure and Algorithm with the nicely resource [**Algorithms, FOURTH EDITION**](https://algs4.cs.princeton.edu/home/)
  **Note:** The responses to the exercises on this book were not the authors', but the reader's, Me😆; hence, might not have been the best approach for implementations.
  ---
- - [X] 🧭 [section 1.1: basic programming model](https://github.com/edugreat/dsa/blob/master/learning/src/section11/Exercise.java)
- - [X] 👜 [section 1.3: Bags,Queues and Stacks](https://github.com/edugreat/dsa/blob/master/learning/src/section13/Exercise.java)
- - [X] [1.4 Analysis of Algorithms](https://github.com/edugreat/dsa/blob/master/learning/src/analysis_of_algorithm/Exercise.java)
+ 1. [X] 👍 Chapter One 
+    * [Matrix transposition](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/MatrixTransposition.java)
+    * [Infix  algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/InfixExpression.java)
+    * [Pictogram](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/Histogram.java)
+    * [Four-Sum algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/FourSumAlgorithm.java)
+    * [Farthest pair algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/FarthestPair.java)
+    * [Conditional 2D boolean](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ConditionalTwoDimentionalBoolean.java)
+    * [Common factor conditional array](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ConditionalCommonFactorMatrix.java)
+    * [Closest pair algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ClosestPairs.java)
+    * [Binary number implementation](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/BinaryRepresentation.java)
+    * [Array elements intersection](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ArrayElementIntersection.java)
+     * [Second most occuring elements in array - miscellaneous exercise](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/SecondMostRepeatedCharacter.java)
+    
+ 
