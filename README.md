@@ -93,7 +93,7 @@ edugreat/edugreat is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ---
-### 🧮 Exercises & project on Data Structure and Algorithm with the nicely resource [**Algorithms, FOURTH EDITION**](https://algs4.cs.princeton.edu/home/)
+### 🧮 Exercises & project on Data Structure and Algorithm with the nicely resource [**Algorithms, FOURTH EDITION**](https://algs4.cs.princeton.edu/home/) and different other dsa challenges (miscellaneous challenges).
  **Note:** The responses to the exercises on this book were not the authors', but the reader's, Me😆; hence, might not have been the best approach for implementations.
  ---
  1. [X] 👍 Chapter One 
