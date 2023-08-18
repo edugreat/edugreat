@@ -107,6 +107,17 @@ You can click the Preview link to take a look at your changes.
     * [Closest pair algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ClosestPairs.java)
     * [Binary number implementation](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/BinaryRepresentation.java)
     * [Array elements intersection](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ArrayElementIntersection.java)
-     * [Second most occuring elements in array - miscellaneous exercise](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/SecondMostRepeatedCharacter.java)
+
+    ### 🧮 Miscellaneous Challenges
+
+     * [Second most occuring element in array](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/SecondMostRepeatedCharacter.java)
+     * [Anagrams](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/Anagram.java)
+     * [Armstrong numbers](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/Armstrong_Numbers.java)
+     * [Number order reversal](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/Number_Reversal.java)
+     * [Pangrams](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/Pangram.java)
+     * [Product Maximizer](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/ProductMaximizer.java)
+     * [Word Find](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/WordFind.java)
+     * [Word Reversal](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/WordReversal.java)
+     * [Word Search](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/WordSearch.java)
     
  
