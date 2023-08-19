@@ -107,6 +107,8 @@ You can click the Preview link to take a look at your changes.
     * [Closest pair algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ClosestPairs.java)
     * [Binary number implementation](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/BinaryRepresentation.java)
     * [Array elements intersection](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ArrayElementIntersection.java)
+    * [Generic linked list sorting algorithm](https://github.com/edugreat/dsa/blob/master/sorting/src/sorting_exercises/LinkedListSort.java)
+    * [Generic linked list shuffling algorithm](https://github.com/edugreat/dsa/blob/master/sorting/src/sorting_exercises/ShufflingList.java)
 
     ### 🧮 Miscellaneous Challenges
 
