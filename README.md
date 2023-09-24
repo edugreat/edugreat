@@ -96,7 +96,8 @@ You can click the Preview link to take a look at your changes.
 ### 🧮 Exercises & project on Data Structure and Algorithm with the nicely resource [**Algorithms, FOURTH EDITION**](https://algs4.cs.princeton.edu/home/) and different other dsa challenges (miscellaneous challenges).
  **Note:** The responses to the exercises on this book were not the authors', but the reader's, Me😆; hence, might not have been the best approach for implementations.
  ---
- 1. [X] 👍 Chapter One 
+- [ ] 👍 DSA Exercises 
+  
     * [Matrix transposition](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/MatrixTransposition.java)
     * [Infix  algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/InfixExpression.java)
     * [Pictogram](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/Histogram.java)
@@ -109,6 +110,19 @@ You can click the Preview link to take a look at your changes.
     * [Array elements intersection](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/ArrayElementIntersection.java)
     * [Generic linked list sorting algorithm](https://github.com/edugreat/dsa/blob/master/sorting/src/sorting_exercises/LinkedListSort.java)
     * [Generic linked list shuffling algorithm](https://github.com/edugreat/dsa/blob/master/sorting/src/sorting_exercises/ShufflingList.java)
+    * [Min method in priority queue implementation](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/AddMinMethod.java)
+    * [Reverse domain name implementation](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/Domain.java)
+    * [Dynamic Median Find](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/DynamicMedianFind.java)
+    * [E A S Y Q U E S T I O N Heap implementation](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/Exercise2.java)
+    * [Frequency of strings](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/Frequency.java)
+    * [Minimum-maximum priority queue implementation](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/MinMaxPQ.java)
+    * [String duplicates removal](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/NoDuplicates.java)
+    * [Priority queue sequence](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/NoDuplicates.java)
+    * [Two-word compound tracker](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/TwoWordCompound.java)
+    * [Unordered array symbol table](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/searching/src/searching/ArrayST.java)
+    * [Ordered sequential search symbol table](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/searching/src/searching/OrderedSequentialSearchST.java)
+    * [Heap arrangement diagram](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/heap_arrangements.txt)
+    * [Heap positioning](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/kthposition.txt)
 
     ### 🧮 Miscellaneous Challenges
 
@@ -121,5 +135,6 @@ You can click the Preview link to take a look at your changes.
      * [Word Find](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/WordFind.java)
      * [Word Reversal](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/WordReversal.java)
      * [Word Search](https://github.com/edugreat/dsa/blob/master/sorting/src/miscellaneous/WordSearch.java)
+     * [Matrix sorting implementation](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/MatrixSort.java)
     
  
