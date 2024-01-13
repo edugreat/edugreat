@@ -123,6 +123,11 @@ You can click the Preview link to take a look at your changes.
     * [Ordered sequential search symbol table](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/searching/src/searching/OrderedSequentialSearchST.java)
     * [Heap arrangement diagram](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/heap_arrangements.txt)
     * [Heap positioning](https://github.com/edugreat/dsa/blob/fb1f7541c4209821e49fcffd7dabc24faaa4088c/priority-queue/src/priority_queue_exercises/kthposition.txt)
+    * [BST with equality chekcs](https://github.com/edugreat/dsa/blob/9bd31986f7f4ca83ee1d869286c07b492800e13f/searching/searching/BSTWITHEQUALITYKEYCHECKS.java)
+    * [BST root certification algorithm](https://github.com/edugreat/dsa/blob/9bd31986f7f4ca83ee1d869286c07b492800e13f/searching/searching/BSTWITHCERTIFICATION.java)
+    * [BST caching algorithm](https://github.com/edugreat/dsa/blob/9bd31986f7f4ca83ee1d869286c07b492800e13f/searching/searching/BSTWITHCACHE.java)
+    * [BST non recursive order checks](https://github.com/edugreat/dsa/blob/9bd31986f7f4ca83ee1d869286c07b492800e13f/searching/searching/BSTWITHORDERCHECK.java)
+    * [BST non recursive min(), max(),select(), ceiling() & floor()](https://github.com/edugreat/dsa/blob/9bd31986f7f4ca83ee1d869286c07b492800e13f/searching/searching/NonRecursives.java)
 
     ### 🧮 Miscellaneous Challenges
 
