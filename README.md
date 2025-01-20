@@ -50,7 +50,7 @@
    
   ---
   
-  ### 📘 My Road Map to the amazing world of <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  ### 📘 My Roadmap to the amazing world of <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   
   ---
   After my data analytic training by Google, I decided to learn more about ```R programming``` language.
