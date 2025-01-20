@@ -13,7 +13,7 @@
 - 👀 I love coding and solving problems
 - 🧑‍🎓 I cherish Science and Mathematics
 - 💞️ I'll appreciate your collaboration to my project
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-anyanwu-313003236/)  [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FTwitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite)](https://twitter.com/_edugreat) <address> <a href="mailto:anyanwuchinedu687@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.svg"/></a> 
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedu-anyanwu-313003236/)  [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FTwitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite)](https://twitter.com/_edugreat) <address> <a href="mailto:a_modestgreat@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.svg"/></a> 
 </address>
 
 
