@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
     * [Matrix transposition](https://github.com/edugreat/dsa/blob/master/learning/exercises/MatrixTransposition.java)
     * [Infix  algorithm](https://github.com/edugreat/dsa/blob/master/learning/exercises/InfixExpression.java)
     * [Histogram](https://github.com/edugreat/dsa/blob/master/learning/exercises/Histogram.java)
-    * [Four-Sum algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/FourSumAlgorithm.java)
+    * [Four-Sum algorithm](https://github.com/edugreat/dsa/blob/master/learning/exercises/FourSumAlgorithm.java)
     * [Farthest pair algorithm](https://github.com/edugreat/dsa/blob/master/learning/exercises/FarthestPair.java)
     * [Conditional 2D boolean](https://github.com/edugreat/dsa/blob/master/learning/exercises/ConditionalTwoDimentionalBoolean.java)
     * [Common factor conditional array](https://github.com/edugreat/dsa/blob/master/learning/exercises/ConditionalCommonFactorMatrix.java)
