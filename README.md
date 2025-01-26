@@ -100,7 +100,7 @@ You can click the Preview link to take a look at your changes.
  ---
 - [ ] 👍 DSA Exercises 
   
-    * [Matrix transposition](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/MatrixTransposition.java)
+    * [Matrix transposition](https://github.com/edugreat/dsa/blob/master/learning/exercises/MatrixTransposition.java)
     * [Infix  algorithm](https://github.com/edugreat/dsa/blob/master/learning/exercises/InfixExpression.java)
     * [Histogram](https://github.com/edugreat/dsa/blob/master/learning/exercises/Histogram.java)
     * [Four-Sum algorithm](https://github.com/edugreat/dsa/blob/master/learning/src/exercises/FourSumAlgorithm.java)
