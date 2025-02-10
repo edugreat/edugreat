@@ -46,7 +46,7 @@
   
   ### 🏡 Projects
   ---
-  - [ ] [ekademiks](https://github.com/edugreat/ekademiks) 📖 _for academic use_ (_not public_)
+  - [ ] [ekademiks](https://github.com/edugreat/ekademiks) 📖 _for academic use_
    
   ---
   
